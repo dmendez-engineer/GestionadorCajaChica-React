@@ -3,7 +3,12 @@ import React from 'react'
 
 function Formulario() {
   return (
-    <div>Formulario</div>
+    <div>
+      <form>
+        <label>Gastos</label>
+        <input/>
+      </form>
+    </div>
   )
 }
 
